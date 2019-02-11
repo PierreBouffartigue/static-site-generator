@@ -9,9 +9,12 @@ Librairies utilisées :
 * markdown téléchargeable via `pip install markdown`
 * Argparse téléchargeable via `pip install argparse`
 
-# Utilisation : 
+## Utilisation : 
 
 Téléchargez le `main.py` et placez le dans un dossier.
 Dans ce dossier ajoutez votre fichier markdown à convertir en HTML et renommez le `replace_me`.
 Une fois l'étape précédente achevée éxécutez le programme `main.py` et la conversion sera rapide et automatique.
 
+## License utilisée :
+
+`BSD 3-Clause "New" or "Revised" License` qui rend le projet Open-Source
